@@ -10,7 +10,8 @@ The function uses Google's financial data to provide the stock information.  It 
  
 Intraday stock prices scans the stock data you're looking for from Google's research page. It then converts,reads and filter such data in order to give you the stock current price as an integer object.
 
-![Composition 1](https://user-images.githubusercontent.com/65517595/102718578-393c5300-42e9-11eb-9f1d-d742389beab8.jpg)
+![Composition 1](https://user-images.githubusercontent.com/65517595/102719243-3d6a6f80-42ed-11eb-982d-338b2b9218c7.jpg)
+
 
  
 ##   :electric_plug:Getting Started
