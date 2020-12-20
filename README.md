@@ -41,7 +41,14 @@ Please consider the following subjects :
 <img src="https://user-images.githubusercontent.com/65517595/102722201-d3a79100-42ff-11eb-8886-392fb80f8d72.jpg" width="700" height="183">
 
 
+## 🤝 Contributing
 
+Contributions, issues and feature requests are welcome.
+Feel free to check issues page if you want to contribute.
 
 
 ## :+1: Licence
+
+This project is GPL-3.0 licensed.
+
+
