@@ -27,7 +27,7 @@ def intraday_stock(Stock):
         # Let's start by taking a screenshot of Google's stock research page 
         # You may need to update the wkhtmltopdf application path, depending on your installation parameters 
         config = imgkit.config(wkhtmltoimage= r'C:\Program Files\wkhtmltopdf\bin\wkhtmltoimage.exe')
-        imgkit.from_url(Stock_Googlesearch,'Stock_Googlescreenshot.jpg',config=config)
+        imgkit.from_url(Stock_Googlesearch,'Stock_Googlescreenshot.jpg',config=config, options= {'quiet': ''})
     
         Stock_Googlescreenshot = Image.open('Stock_Googlescreenshot.jpg')
     
